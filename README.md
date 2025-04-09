@@ -1,6 +1,6 @@
 # Chatbot Project
 
-Welcome to the Chatbot Project! 🤖
+Welcome to the ICAI-Chatbot! 🤖
 
 ## Motivation
 
